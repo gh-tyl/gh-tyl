@@ -1,6 +1,4 @@
-# GH-TYL
-
-## Hello, world! 👋
+# Hello, world! 👋
 
 ## 📈 GitHub Stats
 [![<Your Name>'s GitHub stats](https://github-readme-stats-gh-tyl.vercel.app/api?username=gh-tyl&show_icons=true&theme=radical&count_private=true)](https://github.com/gh-tyl)
